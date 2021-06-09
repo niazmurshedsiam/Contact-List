@@ -32,7 +32,7 @@ const App = () => {
 
   return (
     <div className={"bg-gray-100"}>
-      <section>
+      <section className="text-center">
         <form>
           <input
             type={"text"}
